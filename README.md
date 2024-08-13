@@ -9,7 +9,7 @@
 
  Live Demo:👇
 
-https://sreevidya7-text-compressor.vercel.app/
+
 
 
 ## About this application:
