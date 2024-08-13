@@ -9,7 +9,7 @@
 
  Live Demo:👇
 
-
+https://revanth-text-compressor.vercel.app/
 
 
 ## About this application:
@@ -19,7 +19,7 @@
 * A Huffman code is a tree, built bottom up, starting with the list of different characters appearing in a text and their frequency. 
 * Compression ratio usually improves as the file size increases.
 * The website is made responsive (with HTML and CSS ) and interactive (with JavaScript ) .
-* An [Info page](https://sreevidya7-text-compressor.vercel.app/info.html) is added to give more information about tecnique of **Lossless Data Compression** with Huffman coding.
+* An [Info page](https://revanth-text-compressor.vercel.app/info.html) is added to give more information about tecnique of **Lossless Data Compression** with Huffman coding.
 
 
 
